@@ -1,0 +1,7 @@
+{
+  "name": "Kopi Arang - Artisan Coffee Experience",
+  "description": "A premium coffee shop website featuring an AI-powered barista, a curated menu, and an atmospheric dark-themed aesthetic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
